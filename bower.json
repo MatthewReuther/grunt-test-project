@@ -1,0 +1,12 @@
+{
+  "name": "grunt-test-project",
+  "version": "0.0.1",
+  "homepage": "https://github.com/MatthewReuther/grunt-test-project",
+  "authors": [
+    "Matthew Reuther <matthew.reuther@gmail.com>"
+  ],
+  "description": "This app is a test of using grunt rather than pre",
+  "main": "public/index.html",
+  "license": "MIT",
+  "private": true
+}
